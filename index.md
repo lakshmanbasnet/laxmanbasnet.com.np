@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Namaste!
 
-You can use the [editor on GitHub](https://github.com/lakshmanbasnet/laxmanbasnet.com.np/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am Laxman Basnet from Nepal. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Please find links below:
+
+- [lakshmanbasnet.com.np] Blog
 
 ### Markdown
 
